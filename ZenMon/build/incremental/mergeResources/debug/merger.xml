@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="Frequency" >Frequency
+                </string>
+                <string name="Options" >Options
+                </string>
+                <string name="ComLog" >Please register Level
+                </string>
+                <string name="Account" >Account
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="ComAccount" >Please register login
+                </string>
+                <string name="ComOptions" >Please register Options
+                </string>
+                <string name="checkboxEnableMonitoring" >Enable
+                </string>
+                <string name="Port" >Port
+                </string>
+
+                <array name="key" >
+                    <item>
+"Critical"
+                    </item>
+                    <item>
+"Error"
+                    </item>
+                    <item>
+"Warning"
+                    </item>
+                    <item>
+"Info"
+                    </item>
+                    <item>
+"Debug"
+                    </item>
+                </array>
+
+                <string name="ComPassword" >Please register password
+                </string>
+                <string name="ComFrequency" >Please register Frequency
+                </string>
+                <string name="ComPort" >Please register Port
+                </string>
+
+                <array name="value" >
+                    <item>
+"1"
+                    </item>
+                    <item>
+"2"
+                    </item>
+                    <item>
+"3"
+                    </item>
+                    <item>
+"4"
+                    </item>
+                    <item>
+"5"
+                    </item>
+                </array>
+
+                <string name="ComServer" >Please register Server
+                </string>
+                <string name="Password" >Password
+                </string>
+                <string name="app_name" >ZenMon
+                </string>
+                <string name="Log" >Level
+                </string>
+                <string name="Server" >Server
+                </string>
+            </file>
+            <file
+                path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\src\main\res\values-es\strings.xml"
+                qualifiers="es" >
+                <string name="Log" >Gravedad
+                </string>
+                <string name="Port" >Puerto
+                </string>
+                <string name="Account" >Identidad
+                </string>
+                <string name="ComOptions" >Información los Options
+                </string>
+                <string name="action_settings" >Configuración
+                </string>
+                <string name="Options" >Options
+                </string>
+                <string name="ComServer" >Información Server
+                </string>
+                <string name="ComPassword" >Información Contraseña
+                </string>
+                <string name="checkboxEnableMonitoring" >Activar
+                </string>
+                <string name="app_name" >ZenMon
+                </string>
+                <string name="ComPort" >Información Puerto
+                </string>
+                <string name="Server" >Servidor
+                </string>
+                <string name="ComAccount" >Información Identidad
+                </string>
+                <string name="ComLog" >Información Gravedad
+                </string>
+                <string name="Password" >Contraseña
+                </string>
+            </file>
+            <file
+                path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\src\main\res\values-fr\strings.xml"
+                qualifiers="fr" >
+                <string name="action_settings" >Configuration
+                </string>
+                <string name="checkboxEnableMonitoring" >Activer
+                </string>
+                <string name="Account" >Compte
+                </string>
+                <string name="Options" >Options
+                </string>
+                <string name="ComLog" >Renseigner la Sévérité
+                </string>
+                <string name="ComAccount" >Renseigner le compte
+                </string>
+                <string name="Log" >Sévérité
+                </string>
+                <string name="ComPassword" >Renseigner le mot de passe
+                </string>
+                <string name="Port" >Port
+                </string>
+                <string name="Password" >Mot de passe
+                </string>
+                <string name="ComServer" >Renseigner le Serveur
+                </string>
+                <string name="ComPort" >Renseigner le Port
+                </string>
+                <string name="app_name" >ZenMon
+                </string>
+                <string name="ComOptions" >Sélectionner les Options
+                </string>
+                <string name="Server" >Serveur
+                </string>
+            </file>
+            <file
+                path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="preferences"
+                path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\src\main\res\xml\preferences.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\src\debug\res" />
+    </dataSet>
+
+</merger>

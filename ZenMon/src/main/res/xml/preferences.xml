@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:key="first_preferencescreen">
+
+    <CheckBoxPreference
+            android:key="Enable"
+            android:id="@+id/EnableMonitoring"
+            android:title="@string/checkboxEnableMonitoring" />
+
+    <EditTextPreference
+            android:key="Account"
+            android:id="@+id/Account"
+            android:title="@string/Account"
+            android:inputType="text"
+            android:summary="@string/ComAccount"
+            android:dialogTitle="@string/ComAccount"/>
+
+    <EditTextPreference
+            android:password="true"
+            android:key="Password"
+            android:id="@+id/Password"
+            android:title="@string/Password"
+            android:summary="@string/ComPassword"
+            android:dialogTitle="@string/ComPassword"/>
+
+    <EditTextPreference
+            android:key="Serveur"
+            android:id="@+id/Server"
+            android:title="@string/Server"
+            android:defaultValue="http://"
+            android:inputType="textUri"
+            android:summary="@string/ComServer"
+            android:dialogTitle="@string/ComServer"/>
+
+    <EditTextPreference
+            android:key="Port"
+            android:id="@+id/Port"
+            android:title="@string/Port"
+            android:inputType="number"
+            android:summary="@string/ComPort"
+            android:dialogTitle="Veuillez saisir le port du serveur Zenoss"/>
+
+    <ListPreference
+            android:key="Loglevel"
+            android:id="@+id/Log"
+            android:title="@string/Log"
+            android:summary="@string/ComLog"
+            android:entries="@array/key"
+            android:entryValues="@array/value"
+            android:dialogTitle="Choisir la sévérité:"
+            android:persistent="true">
+    </ListPreference>
+
+    <PreferenceScreen
+            android:key="second_preferencescreen"
+            android:id="@+id/Options"
+            android:title="@string/Options">
+
+        <EditTextPreference
+                android:key="Frequency"
+                android:id="@+id/Frequency"
+                android:title="@string/Frequency"
+                android:inputType="number"
+                android:summary="@string/ComFrequency"
+                android:dialogTitle="@string/ComFrequency"/>
+
+        <ListPreference
+                android:key="Loglevel"
+                android:id="@+id/Log"
+                android:title="@string/Log"
+                android:summary="@string/ComLog"
+                android:entries="@array/key"
+                android:entryValues="@array/value"
+                android:dialogTitle="Choisir la sévérité:"
+                android:persistent="true">
+        </ListPreference>
+
+    </PreferenceScreen>
+</PreferenceScreen>

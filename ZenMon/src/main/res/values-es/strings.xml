@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Langue ESPAGNOLE -->
+<resources>
+
+    <!-- Titre de l'application -->
+    <string name="app_name">ZenMon</string>
+    <string name="action_settings">Configuración</string>
+
+    <!-- Bouton Zone preference -->
+    <string name="checkboxEnableMonitoring">Activar</string>
+    <string name="Account">Identidad</string>
+    <string name="ComAccount">Información Identidad</string>
+
+    <string name="Password">Contraseña</string>
+    <string name="ComPassword">Información Contraseña</string>
+
+    <string name="Server">Servidor</string>
+    <string name="ComServer">Información Server</string>
+
+    <string name="Port">Puerto</string>
+    <string name="ComPort">Información Puerto</string>
+
+    <string name="Log">Gravedad</string>
+    <string name="ComLog">Información Gravedad</string>
+
+    <string name="Options">Options</string>
+    <string name="ComOptions">Información los Options</string>
+
+    <!-- Libelle des services -->
+    <string name="local_service_started">ZenMon obras</string>
+    <string name="local_service_stopped">ZenMon detiene</string>
+    <string name="local_service_label">ZenMon</string>
+
+
+</resources>

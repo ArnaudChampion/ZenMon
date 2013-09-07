@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Langue ANGLAIS DEFAUT -->
+<resources>
+
+    <!-- Titre de l'application -->
+    <string name="app_name">ZenMon</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Bouton Zone preference -->
+    <string name="checkboxEnableMonitoring">Enable</string>
+    <string name="Account">Account</string>
+    <string name="ComAccount">Please register login</string>
+
+
+    <string name="Password">Password</string>
+    <string name="ComPassword">Please register password</string>
+
+    <string name="Server">Server</string>
+    <string name="ComServer">Please register Server</string>
+
+    <string name="Port">Port</string>
+    <string name="ComPort">Please register Port</string>
+
+    <string name="Log">Level</string>
+    <string name="ComLog">Please register Level</string>
+
+    <string name="Options">Options</string>
+    <string name="ComOptions">Please register Options</string>
+
+    <string name="Frequency">Frequency</string>
+    <string name="ComFrequency">Please register Frequency</string>
+
+    <!-- Libelle des services -->
+    <string name="local_service_started">ZenMon started</string>
+    <string name="local_service_stopped">ZenMon stopped</string>
+    <string name="local_service_label">ZenMon</string>
+
+
+    <array name="key">
+        <item>"Critical"</item>
+        <item>"Error"</item>
+        <item>"Warning"</item>
+        <item>"Info"</item>
+        <item>"Debug"</item>
+    </array>
+    <array name="value">
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+    </array>
+
+</resources>

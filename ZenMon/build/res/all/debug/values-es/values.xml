@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/arnaud.champion/AndroidStudioProjects/ZenMonProject/ZenMon/src/main/res/values-es/strings.xml -->
+    <string name="Account">Identidad</string>
+    <string name="ComAccount">Información Identidad</string>
+    <string name="ComLog">Información Gravedad</string>
+    <string name="ComOptions">Información los Options</string>
+    <string name="ComPassword">Información Contraseña</string>
+    <string name="ComPort">Información Puerto</string>
+    <string name="ComServer">Información Server</string>
+    <string name="Log">Gravedad</string>
+    <string name="Options">Options</string>
+    <string name="Password">Contraseña</string>
+    <string name="Port">Puerto</string>
+    <string name="Server">Servidor</string>
+    <string name="action_settings">Configuración</string>
+    <string name="app_name">ZenMon</string>
+    <string name="checkboxEnableMonitoring">Activar</string>
+
+</resources>

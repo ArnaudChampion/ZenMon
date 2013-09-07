@@ -1,0 +1,18 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377522484213 781 42d59d420ede3b9182fd74caef701ada204d743e C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\build\classes\debug\com\champion\zenmon\R.class
+1377522484196 648 eeafd485fc6d14a24747e95a7c2539866fe7989d C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\build\classes\debug\com\champion\zenmon\R$id.class
+1377259692387 347 61ba562256f8210ad686b3af687cfbbff0e4f9cd C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\build\classes\debug\com\champion\zenmon\BuildConfig.class
+1377260401919 857 e3b470003ddd63704b79a59332219064cf3535c7 C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\build\classes\debug\com\champion\zenmon\SettingActivity.class
+1378279080657 1350 43f076abe07874c349f3c58a61684192c7fcaa6f C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\build\classes\debug\com\champion\zenmon\MainActivity.class
+1369432936000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d C:\Users\arnaud.champion\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
+1377260401940 410 353b1b3523c7366f64dd9ffad84ec63ede39486c C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\build\classes\debug\com\champion\zenmon\R$drawable.class
+1377522484209 395 b88739914f7b5bc47d863c26990540ecb7617417 C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\build\classes\debug\com\champion\zenmon\R$xml.class
+1377260401929 422 e3af2abe5662aa9213e9bbfbf34ba27d549fd7c9 C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\build\classes\debug\com\champion\zenmon\R$array.class
+1377260401937 464 a4bc6bd738822542dac819fbdf214b391be40e76 C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\build\classes\debug\com\champion\zenmon\R$dimen.class
+1377522484201 391 bf560be12a342185be1596daa00621468a2b43d9 C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\build\classes\debug\com\champion\zenmon\R$menu.class
+1377260401933 343 0ab092ea8b90eabae0ddc99d9e38ca86f1f59e22 C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\build\classes\debug\com\champion\zenmon\R$attr.class
+1377522484199 406 3ee3980fe15ee689a638047012498ac1ac704c84 C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\build\classes\debug\com\champion\zenmon\R$layout.class
+1377522484204 933 7adcdb401662ba67e498e07857c3f9625fd9afec C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\build\classes\debug\com\champion\zenmon\R$string.class
+1377522484207 434 11d30768159acfabcb49ec36bbb54f144ca8b481 C:\Users\arnaud.champion\AndroidStudioProjects\ZenMonProject\ZenMon\build\classes\debug\com\champion\zenmon\R$style.class
